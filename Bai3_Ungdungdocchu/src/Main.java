@@ -168,11 +168,11 @@ public class Main {
                     d = " : tam tram";
                     break;
                 case 9:
-                    d = " : chin tram";
+                    d = " : chin trm";
                     break;
             }
             switch (b) {
-                      case 0:
+                case 0:
                     e= "";
                     break;
                 case 1:
