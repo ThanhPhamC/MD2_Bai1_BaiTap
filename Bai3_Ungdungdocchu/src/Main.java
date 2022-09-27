@@ -105,6 +105,9 @@ public class Main {
                     break;
             }
             switch (b) {
+                case 0:
+                    e = " ";
+                    break;
                 case 1:
                     e = " mot";
                     break;
@@ -165,10 +168,13 @@ public class Main {
                     d = " : tam tram";
                     break;
                 case 9:
-                    d = " : chin trm";
+                    d = " : chin tram";
                     break;
             }
             switch (b) {
+                      case 0:
+                    e= "";
+                    break;
                 case 1:
                     e = " muoi";
                     break;
@@ -198,6 +204,9 @@ public class Main {
                     break;
             }
             switch (c) {
+                case 0:
+                    f= "";
+                    break;
                 case 1:
                     f = " muoi";
                     break;
